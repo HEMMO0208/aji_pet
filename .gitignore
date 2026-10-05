@@ -1,0 +1,19 @@
+# Original reference photos
+*.JPG
+*.jpg
+*.jpeg
+*.HEIC
+*.heic
+
+# Built apps and distribution packages
+*.app/
+*.zip
+/share/
+.build/
+.DS_Store
+
+# Local credentials and settings
+.env
+.env.*
+!.env.example
+.codex/
