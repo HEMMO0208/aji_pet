@@ -1,9 +1,10 @@
-# Original reference photos
+# Ignore other photos; include the original dog references
 *.JPG
 *.jpg
 *.jpeg
 *.HEIC
 *.heic
+!/IMG_*.JPG
 
 # Built apps and distribution packages
 *.app/

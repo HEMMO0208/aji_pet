@@ -38,7 +38,7 @@ AI로 만든 캐릭터 이미지와 로컬 애니메이션을 사용하는 앱�
 - `AjiPet/image-prompt.txt`: 이미지 제작 프롬프트
 - `AjiPet/build.command`: Apple Silicon 빌드 및 로컬 서명
 
-원본 강아지 사진, 빌드한 앱, 배포 ZIP은 Git에 포함하지 않습니다.
+프로젝트 루트의 `IMG_*.JPG` 11장은 캐릭터 제작을 위한 원본 강아지 사진입니다. 빌드한 앱과 배포 ZIP은 Git에 포함하지 않습니다.
 
 ## 다른 Mac에 전달하기
 
